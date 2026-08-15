@@ -1,0 +1,13 @@
+Cat & Dog Image Classifier
+Model: cat_dog_model.h5
+---------------------------------------------
+Image: cat.jpg
+Prediction: Cat
+Confidence: 100.00%
+Probabilities: Cat=100.00%, Dog=0.00%
+---------------------------------------------
+Image: dog.jpg
+Prediction: Dog
+Confidence: 100.00%
+Probabilities: Cat=0.00%, Dog=100.00%
+---------------------------------------------

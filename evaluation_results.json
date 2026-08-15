@@ -1,0 +1,22 @@
+{
+  "classes": [
+    "Cat",
+    "Dog"
+  ],
+  "training_samples": 96,
+  "validation_samples": 24,
+  "epochs_completed": 25,
+  "validation_loss": 2e-06,
+  "validation_accuracy": 1.0,
+  "confusion_matrix": [
+    [
+      12,
+      0
+    ],
+    [
+      0,
+      12
+    ]
+  ],
+  "matrix_orientation": "rows=actual, columns=predicted"
+}
